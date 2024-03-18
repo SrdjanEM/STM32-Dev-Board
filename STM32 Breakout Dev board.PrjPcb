@@ -141,46 +141,50 @@ GenerateClassCluster=0
 DocumentUniqueId=IJAMGIMF
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for STM32 Breakout Dev board\STM Dev board.EXTREP
+DocumentPath=Project Outputs for STM32 Breakout Dev board\Design Rule Check - STM Dev board.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for STM32 Breakout Dev board\STM Dev board.REP
+DocumentPath=Project Outputs for STM32 Breakout Dev board\STM Dev board.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for STM32 Breakout Dev board\STM Dev board_Copper_Signal_Bot.gbr
+DocumentPath=Project Outputs for STM32 Breakout Dev board\STM Dev board.REP
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for STM32 Breakout Dev board\STM Dev board_Copper_Signal_Top.gbr
+DocumentPath=Project Outputs for STM32 Breakout Dev board\STM Dev board_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for STM32 Breakout Dev board\STM Dev board_Legend_Bot.gbr
+DocumentPath=Project Outputs for STM32 Breakout Dev board\STM Dev board_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for STM32 Breakout Dev board\STM Dev board_Legend_Top.gbr
+DocumentPath=Project Outputs for STM32 Breakout Dev board\STM Dev board_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for STM32 Breakout Dev board\STM Dev board_Paste_Bot.gbr
+DocumentPath=Project Outputs for STM32 Breakout Dev board\STM Dev board_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for STM32 Breakout Dev board\STM Dev board_Paste_Top.gbr
+DocumentPath=Project Outputs for STM32 Breakout Dev board\STM Dev board_Paste_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for STM32 Breakout Dev board\STM Dev board_Profile.gbr
+DocumentPath=Project Outputs for STM32 Breakout Dev board\STM Dev board_Paste_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for STM32 Breakout Dev board\STM Dev board_Soldermask_Bot.gbr
+DocumentPath=Project Outputs for STM32 Breakout Dev board\STM Dev board_Profile.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument11]
+DocumentPath=Project Outputs for STM32 Breakout Dev board\STM Dev board_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument12]
 DocumentPath=Project Outputs for STM32 Breakout Dev board\STM Dev board_Soldermask_Top.gbr
 DItemRevisionGUID=
 
@@ -384,7 +388,7 @@ OutputName1=Composite Drawing
 OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=5.40|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PrintScaleName=PrintFitPageWidth|PaperKind=Letter|PaperIndex=1
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=5.40|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=0|PaperKind=Letter|PaperIndex=1
 Configuration1_Name1=OutputConfigurationParameter1
 Configuration1_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView|DocumentPath=C:\Users\Public\Documents\Altium\STM32\STM Dev board.PcbDoc
 Configuration1_Name2=OutputConfigurationParameter2
